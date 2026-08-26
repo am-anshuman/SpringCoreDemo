@@ -1,4 +1,4 @@
-package org.aman;
+package org.aman.ioc_container;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

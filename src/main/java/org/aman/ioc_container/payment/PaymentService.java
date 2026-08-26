@@ -1,4 +1,4 @@
-package org.aman.payment;
+package org.aman.ioc_container.payment;
 
 public interface PaymentService {
 

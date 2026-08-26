@@ -1,6 +1,6 @@
-package org.aman;
+package org.aman.ioc_container;
 
-import org.aman.payment.PaymentService;
+import org.aman.ioc_container.payment.PaymentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
